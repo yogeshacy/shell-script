@@ -1,2 +1,3 @@
 ls
 find .
+ls /opt
